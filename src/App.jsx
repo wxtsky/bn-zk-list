@@ -57,8 +57,8 @@ function App() {
         <div style={{ textAlign: 'center', padding: '16px' }}>
           <Text>
             Made by{' '}
-            <a href="https://twitter.com/beibeieth" target="_blank" rel="noopener noreferrer">
-              @beibeieth
+            <a href="https://twitter.com/123xzr" target="_blank" rel="noopener noreferrer">
+              @123xzr
             </a>{' '}
             <TwitterOutlined />
           </Text>
